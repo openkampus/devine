@@ -352,9 +352,18 @@ This software is licensed under the terms of [GNU General Public License, Versio
 You can find a copy of the license in the LICENSE file in the root folder.
 
 * * *
+© rlaphoenix 2019-2024
+
+
+
+
+
+
+
+
 * * *
 
-## Info integrated N_M3U8DL_RE by stabbedbybrick
+## Info
 
 This is a *very* experimental branch to add N_m3u8DL-RE as downloader to Devine.
 Do not merge this into your master branch!
@@ -395,6 +404,5 @@ n_m3u8dl_re:
 - fix(Widevine): Filter out annoying info messages from shaka packager
 ```
 * * *
-* * *
 
-© rlaphoenix 2019-2024
+integrated N_M3U8DL_RE by stabbedbybrick
